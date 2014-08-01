@@ -1,4 +1,4 @@
-package us.sosia.utils.libs.java;
+package us.sosia.utils.libs.json;
 
 
 import com.fasterxml.jackson.annotation.JsonInclude;
