@@ -11,7 +11,6 @@ import java.io.IOException;
 
 /**
  * Author: kerr
- * Mail: pin.he@pekall.com
  */
 public class Jsons {
     private static ObjectMapper mapper ;
